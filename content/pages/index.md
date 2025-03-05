@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: hey
-    subtitle: Th
+    subtitle: W
     styles:
       self:
         height: auto
