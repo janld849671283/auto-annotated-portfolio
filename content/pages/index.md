@@ -48,13 +48,11 @@ sections:
     variant: variant-a
     title: falls du mein siel testen möchtest dan kanst du es hier herunter laden.
     subtitle: es ist aber noch eine beta.
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: |+
+      erst verfügbar am 10.3.2025.
+
+
+
     elementId: p
     styles:
       self:
