@@ -46,7 +46,7 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: fahls
+    title: falls du mein siel testen möchtest dan kanst du es hier herunter laden
     subtitle: ''
     text: >-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
