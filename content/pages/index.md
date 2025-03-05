@@ -46,7 +46,7 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: falls du mein siel testen möchtest dan kanst du es hier herunter laden
+    title: falls du mein siel testen möchtest dan kanst du es hier herunter laden.
     subtitle: es ist aber noch eine beta.
     text: >-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
