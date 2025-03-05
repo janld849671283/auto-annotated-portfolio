@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: hey
-    subtitle: W
+    subtitle: Wilst du mein spiel nahmens "the-jump" kostenlos testen.
     styles:
       self:
         height: auto
