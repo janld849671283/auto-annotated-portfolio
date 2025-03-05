@@ -47,7 +47,7 @@ sections:
     colors: colors-f
     variant: variant-a
     title: falls du mein siel testen möchtest dan kanst du es hier herunter laden
-    subtitle: ''
+    subtitle: es ist aber noch eine beta.
     text: >-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
       doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
