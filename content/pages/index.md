@@ -46,7 +46,7 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: falls du mein siel testen möchtest dan kanst du es hier herunter laden.
+    title: falls du mein spiel testen möchtest dann kanst du es hier herunter laden.
     subtitle: es ist aber noch eine beta.
     text: |+
       erst verfügbar am 10.3.2025.
